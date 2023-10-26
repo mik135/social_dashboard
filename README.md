@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](images/Social-Media-Dashboard.png)
-![Mobile](images/Social-Media-Dashboard Mobile.png)
+![Mobile](images/Social-Media-Dashboard-Mobile.png)
 
 ### Links
 
